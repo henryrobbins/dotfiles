@@ -1,0 +1,19 @@
+{
+    "terminal.integrated.inheritEnv": false,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "files.trimTrailingWhitespace": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.home": "/Library/Java/JavaVirtualMachines/jdk-11.0.8.jdk/Contents/Home",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "jupyter.sendSelectionToInteractiveWindow": false,
+    "jupyter.alwaysTrustNotebooks": true,
+    "editor.stopRenderingLineAfter" : -1,
+    "editor.rulers": [
+        80
+    ],
+    "restructuredtext.linter.disabled": true
+}

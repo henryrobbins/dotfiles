@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/Henry/.rbenv'
+let g:netrw_dirhist_2='/Users/Henry/.rbenv/versions'
+let g:netrw_dirhist_3='/Users/Henry/.rbenv'
+let g:netrw_dirhist_4='/Users/Henry/.rvm'
