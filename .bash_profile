@@ -44,7 +44,7 @@ export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
 # Finished adapting your PATH environment variable for use with MacPorts.
 
 # opam configuration
-test -r $HOME.opam/opam-init/init.sh && . /Users/Henry/.opam/opam-init/init.sh > /dev/null 2> /dev/null || true
+test -r $HOME/.opam/opam-init/init.sh && . /Users/Henry/.opam/opam-init/init.sh > /dev/null 2> /dev/null || true
 
 # Ruby
 export PATH=/usr/local/opt/ruby/bin:$PATH
