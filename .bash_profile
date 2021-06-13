@@ -44,12 +44,12 @@ export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
 # Finished adapting your PATH environment variable for use with MacPorts.
 
 # opam configuration
-test -r /Users/Henry/.opam/opam-init/init.sh && . /Users/Henry/.opam/opam-init/init.sh > /dev/null 2> /dev/null || true
+test -r $HOME.opam/opam-init/init.sh && . /Users/Henry/.opam/opam-init/init.sh > /dev/null 2> /dev/null || true
 
 # Ruby
 export PATH=/usr/local/opt/ruby/bin:$PATH
 export PATH=/usr/local/lib/ruby/gems/3.0.0/bin:$PATH
-source "/Users/Henry/.new_local/env"
+source "$HOME/.new_local/env"
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 export BASH_SILENCE_DEPRECATION_WARNING=1

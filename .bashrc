@@ -14,7 +14,7 @@ rand() {
 }
 
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
-source "/Users/Henry/.new_local/env"
+source "$HOME/.new_local/env"
 
 # Prevent brew from auto-updating
 export HOMEBREW_NO_AUTO_UPDATE=1
