@@ -40,7 +40,7 @@ config push origin master
 | Application | Files | Summary |
 |-------------|-------|---------|
 | [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) | [com.apple.Terminal.plist](../Library/Preferences/com.apple.Terminal.plist) | Terminal emulator included in macOS |
-| [Vim](https://www.vim.org/download.php) | [.vimrc](../.vimrc) </br> [.vim](.vim) | Highly configurable text editor |
+| [Vim](https://www.vim.org/download.php) | [.vimrc](../.vimrc) </br> [.vim](../.vim) | Highly configurable text editor |
 | [Bash](https://www.gnu.org/software/bash/) | [.bashrc](../.bashrc) </br> [.bash_profile](../.bash_profile) | Unix shell and command language |
 | [VS Code](https://code.visualstudio.com/) | [settings.json](<../Library/Application Support/Code/User/settings.json>) | Source Code Editor |
 | [Amethyst](https://ianyh.com/amethyst/) | [com.amethyst.Amethyst.plist](../Library/Preferences/com.amethyst.Amethyst.plist) | Tiling window manager for macOS |
