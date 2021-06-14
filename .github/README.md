@@ -45,3 +45,7 @@ config push origin master
 | [VS Code](https://code.visualstudio.com/) | [settings.json](<Library/Application Support/Code/User/settings.json>) | Source Code Editor |
 | [Amethyst](https://ianyh.com/amethyst/) | [com.amethyst.Amethyst.plist](Library/Preferences/com.amethyst.Amethyst.plist) | Tiling window manager for macOS |
 | [Karabiner-Elements](https://karabiner-elements.pqrs.org/) | [.config/karabiner](.config/karabiner) | Key remapper for macOS |
+
+## License
+
+Licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
